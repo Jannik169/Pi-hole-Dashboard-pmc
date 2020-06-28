@@ -13,6 +13,3 @@ I changed the text in 4 files:
 
 # What does pmc mean ?
 "pmc" stands for "politically more accurate".
-
-# Disclaimer
-Im not associated with PI-Hole
